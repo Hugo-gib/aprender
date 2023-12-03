@@ -5,7 +5,35 @@ package com.mgh.edd.helloGradle;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Control de Versiones Distribuido:
+        Utiliza Git para un control de versiones eficiente y distribuido.
+
+        Colaboración Eficiente:
+        Permite a equipos trabajar simultáneamente y fusionar cambios automáticamente.
+
+        Seguimiento de Cambios:
+        Ofrece un historial detallado de todos los cambios en el código.
+
+        Gestión de Problemas y Tareas:
+        Herramientas integradas para el seguimiento de problemas y proyectos.
+
+        Integración Continua:
+        Se integra con servicios de integración continua para automatizar procesos.
+
+        Repositorios Públicos y Privados:
+        Permite repositorios públicos o privados según la necesidad.
+
+        Herramientas de Revisión de Código:
+        Facilita la revisión y discusión de cambios en el código.
+
+        Despliegue Automático a GitHub Pages:
+        Posibilidad de desplegar sitios web estáticos directamente desde el repositorio.
+
+        Comunidad y Red Social:
+        Plataforma social para desarrolladores con funciones de red profesional.
+
+        Integración con Herramientas de Desarrollo:
+        Se integra fácilmente con diversas herramientas populares de desarrollo.";
     }
 
     public static void main(String[] args) {
